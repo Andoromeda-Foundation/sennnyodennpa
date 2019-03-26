@@ -93,7 +93,7 @@ Gitcoin 是一家旨在 [Build OSS Sustainability](https://medium.com/gitcoin/co
 EOS World Expo 2019 将于下个中旬在三藩举行，作为一个 EOS Only 的 Event，从 [议程](https://www.eosworldexpo.com/#program-section) 上来看，这个活动会 Share 很多 EOS only 的 Insight，这些话题在其他公链上可是不多见的哦。
 
 
-![图片](https://uploader.shimo.im/f/hbQIWoHhH60Ro2Ff.png!thumbnail)
+![图片](https://uploader.shimo.im/f/cUIvxLznh6AIuSEZ.png!thumbnail)
 
 想要成为 Andoromeda 社区开发者？一起 Happy Hunting？
 订阅仙女电波，发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io), 简单介绍你自己，并附上自己的Github 地址，我们将会邮件您。
