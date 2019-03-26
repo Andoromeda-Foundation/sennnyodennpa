@@ -85,6 +85,10 @@ Hashbaby 日前的交易量不断上升，多家媒体都有报道：[《我们�
 
  ![图片](https://uploader.shimo.im/f/XImnCbGFkXoJ7ii1.png!thumbnail)
 
+### [03月28日] [CryptoCTF](https://cryptoctf.org/?)，`CTF`
+Are you ready to learn hacking Ethereum through realistic examples? 一场新的区块链资安比赛将于本月 28 日开始。
+比赛时间为 28th March 2019 8:40~18:00 UTC+01:00。如果你是第一次参加类似比赛，可以参考之前进行的 [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)。Gotta Catch 'Em All！
+
 ### [04月08-10日] [EDCON 黑客松](https://mp.weixin.qq.com/s/9h6tcjPzTzY3DrMFv39N7Q)，14500$ `Hackathon`
 EDCON 2019 （全球以太坊社区发展峰会）将于4月8日至13日在澳大利亚悉尼举行。本届峰会持续一周，主要包含 EDCON HACK 黑客松（4月8日至10日）、 主分会场演讲（4月11日至13日）以及会后派对（暂定）等。EDCON HACK 是一个为期三天的黑客松，除了总计 14500 美元的奖金之外，为了鼓励开发者的参与和创新，EDCON 会务组还将为所有黑客松参赛者提供免费门票，用于参与后续的主分会场演讲。
 
