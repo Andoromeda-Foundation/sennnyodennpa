@@ -85,17 +85,17 @@ Hashbaby 日前的交易量不断上升，多家媒体都有报道：[《我们�
 
  ![图片](https://uploader.shimo.im/f/XImnCbGFkXoJ7ii1.png!thumbnail)
 
-### [03月28日] [CryptoCTF](https://cryptoctf.org/?)，`CTF`
+### [03 月 28 日] [CryptoCTF](https://cryptoctf.org/?)，`CTF`
 Are you ready to learn hacking Ethereum through realistic examples? 一场新的区块链资安比赛将于本月 28 日开始。
 比赛时间为 28th March 2019 8:40~18:00 UTC+01:00。如果你是第一次参加类似比赛，可以参考之前进行的 [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)。Gotta Catch 'Em All！
 
-### [04月08-10日] [EDCON 黑客松](https://mp.weixin.qq.com/s/9h6tcjPzTzY3DrMFv39N7Q)，14500$ `Hackathon`
-EDCON 2019 （全球以太坊社区发展峰会）将于4月8日至13日在澳大利亚悉尼举行。本届峰会持续一周，主要包含 EDCON HACK 黑客松（4月8日至10日）、 主分会场演讲（4月11日至13日）以及会后派对（暂定）等。EDCON HACK 是一个为期三天的黑客松，除了总计 14500 美元的奖金之外，为了鼓励开发者的参与和创新，EDCON 会务组还将为所有黑客松参赛者提供免费门票，用于参与后续的主分会场演讲。
+### [04 月 08~10 日] [EDCON 黑客松](https://mp.weixin.qq.com/s/9h6tcjPzTzY3DrMFv39N7Q)，14500$ `Hackathon`
+[EDCON 2019](https://www.edcon.io/) （全球以太坊社区发展峰会）将于 04 月 08 日至 13 日在澳大利亚悉尼举行。本届峰会持续一周，主要包含 EDCON HACK 黑客松（04 月 08 日至 10 日）、 主分会场演讲（04 月 11 日至 13 日）以及会后派对（暂定）等。EDCON HACK 是一个为期三天的黑客松，除了总计 14500 美元的奖金之外，为了鼓励开发者的参与和创新，EDCON 会务组还将为所有黑客松参赛者提供免费门票，用于参与后续的主分会场演讲。
 
-### [04月15-30日] [The Ethereal Hackathon](https://medium.com/gitcoin/the-ethereal-hackathon-4f5dc2eb56d6?fbclid=IwAR1hrGew3O67lxFSqZ16REY9Q-VJmiBMpi8cqQS7LNtHzQRBWo5RpY_eLNI)，25000$, `Hackathon`
+### [04 月 15~30 日] [The Ethereal Hackathon](https://medium.com/gitcoin/the-ethereal-hackathon-4f5dc2eb56d6?fbclid=IwAR1hrGew3O67lxFSqZ16REY9Q-VJmiBMpi8cqQS7LNtHzQRBWo5RpY_eLNI)，25000$, `Hackathon`
 Gitcoin 是一家旨在 [Build OSS Sustainability](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4) 的由以太坊驱动的线上协作社区。这将会是 Gitcoin 举办的首场线上 Hackathon，除了优胜奖金之外，主办方还会给最终实现并上线的产品提供额外的资助，协办方包括但不限于 Microsoft, ConsenSys Labs, MythX。岛娘的朋友圈已经都在组队了，快来召集你的好友一起参加吧！
 
-### [04月13-15日] [EOS WORLD EXPO 2019](https://www.eosworldexpo.com/) `EXPO`
+### [04 月 13~15 日] [EOS WORLD EXPO 2019](https://www.eosworldexpo.com/) `EXPO`
 EOS World Expo 2019 将于下个中旬在三藩举行，作为一个 EOS Only 的 Event，从 [议程](https://www.eosworldexpo.com/#program-section) 上来看，这个活动会 Share 很多 EOS only 的 Insight，这些话题在其他公链上可是不多见的哦。
 
 
