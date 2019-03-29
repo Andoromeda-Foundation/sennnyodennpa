@@ -36,7 +36,7 @@
 
 ![图片](https://uploader.shimo.im/f/emne5rAAxEMyoZRZ.png!thumbnail)
 
-### V神首次提出「ZK ZK Rollup」以太坊扩容方案 
+### V 神首次提出「ZK ZK Rollup」以太坊扩容方案 
 以太坊创始人Vitalik于3月15日在台北的演讲上提出[「ZK ZK Rollup」](https://medium.com/@trenton.v/transcript-scalable-blockchains-as-data-layers-vitalik-buterin-11aa18b37e07)的以太坊 Layer 2 层面的扩容方案，可点击链接查阅演讲的 [PPT](https://docs.google.com/presentation/d/1EVjrZhoxw-ikzelFGGv7czxuJsIIWfl5I-CPIlnjsME/edit#slide=id.p) 和 [视频](https://www.youtube.com/watch?v=mOm47gBMfg8)。岛娘也在《[零知识证明与区块链扩容 Zero Knowledge && Blockchain Scalability》](https://hackmd.io/s/rJ5xKzeuN#%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E%E4%B8%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%89%A9%E5%AE%B9-Zero-Knowledge-ampamp-Blockchain-Scalability)一文中对区块链扩容进行了自己的解读。
 
 >ZK ZK Rollup 的基本思想就是在 ZK Rollup 的基础上在里面嵌入一个 Mini 版本的 Zcash 机制。这样 Relayer 就无需发布 Txs，而只要发布每次的交易回执（Receipts）即可。除了和 ZK Rollup 一样可以提高 tps 之外，Vatalik 也提到了这种方法的一些潜在应用，其中最为激动人心的的应用就是可以加速跨片之间的交易。
