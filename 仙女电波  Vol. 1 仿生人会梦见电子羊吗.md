@@ -1,9 +1,9 @@
 # 仙女电波  Vol. 1 仿生人会梦见电子羊吗
 `March 25, 2019 – April 01, 2019 刊`
 
-[hackmd 编辑地址](https://hackmd.io/s/S1XO6-v_E)
-
 本期编辑：岛娘、Aaryn
+
+[hackmd 编辑地址](https://hackmd.io/s/S1XO6-v_E)
 
 ![图片](https://uploader.shimo.im/f/wagpH0sCBnYUyEt1.png!thumbnail)
 
@@ -15,9 +15,17 @@
   - [Lightning App Mainnet Demo](https://docs.google.com/presentation/d/140emL5LOheVPDLz6SOKS0l5Jtlw8jxghY6EyXO3CIAo/edit#slide=id.p)
     [Lightning Labs](https://twitter.com/lightning) 的 [@tankredhase](https://twitter.com/tankredhase) 放出了 [自己在刚刚结束的 Bitcoin meetup in Bali 上关于闪电网络应用的 Slide](https://twitter.com/tankredhase/status/1111458294386745345)。主要介绍了闪电网络的背景、现状、面临的挑战以及一些正在上面运行的应用。
   - [Charlie Lee Takes the Lightning Torch](https://litecoin.com/en/news/charlie-lee-takes-the-lightning-torch)
-    莱特币的创始人 Charlie Lee 接过闪电火炬，也成为了最后一个接过火炬的 Magical Crypto Friend，目前闪电网络火炬手包括 *Mastering Bitcoin* [^B] 和以及 *Mastering Ethereum* [^E] 的作者 Andreas Antonopoulos，币安 CEO 赵长鹏。社区纷纷讨论，不知道什么时候才会轮到 Elon Musk（笑）。
+    莱特币的创始人 Charlie Lee 接过闪电火炬，成为了第 [#264](https://twitter.com/SatoshiLite/status/1111223974795595776) 棒火炬手，同时也是最后一个接过火炬的 [Magical Crypto Friends](https://www.youtube.com/channel/UCVVDsIYJBQ_C7Bh_aI3ZMxQ)。社区纷纷讨论，不知道什么时候才会传递到 Elon Musk（笑），目前闪电网络火炬手已经包含：
     
-    [^B]: [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain, Gihut》](https://github.com/bitcoinbook/bitcoinbook)，[中译](http://book.8btc.com/masterbitcoin2cn)
+     - *Mastering Bitcoin* [^B] 和 *Mastering Ethereum* [^E] 的作者 Andreas Antonopoulos [(#139)](https://twitter.com/aantonop/status/1092198648807673857)
+     - Twitter 的 CEO，Jack Dorsey [(#151)](https://twitter.com/jack/status/1092892320842706944) 
+     - Lightning Labs 的 CEO，Elizabeth Stark [(#152)](https://twitter.com/starkness/status/1093241376106520577)
+     - 币安的 CEO，赵长鹏 [(#186)](https://twitter.com/cz_binance/status/1095172334233612288)。
+     - Blockstream 的 CEO，[HashCash](https://en.wikipedia.org/wiki/Hashcash) 的发明人 [Adam Back](https://en.wikipedia.org/wiki/Adam_Back) [(#233)](https://twitter.com/adam3us/status/1100369054483861504)
+   
+    完整的火炬手列表可以查看 [Take the Torch Online](https://www.takethetorch.online/Torch)。
+    
+    [^B]: [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain, Github》](https://github.com/bitcoinbook/bitcoinbook)，[中译](http://book.8btc.com/masterbitcoin2cn)
     
     [^E]: [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood, Github](https://github.com/ethereumbook/ethereumbook)
 
@@ -25,7 +33,7 @@
   - [Understanding the Generalized Plasma Architecture](https://medium.com/plasma-group/plapps-and-predicates-understanding-the-generalized-plasma-architecture-fc171b25741) 
     Plasma Group 最近写了一篇文章，深入介绍一般化的 Plasma 架构，推荐想自己搭建 Plasma 侧链的开发人员阅读。    
   - [Ethereum 2.0 Serenity Testnet Update — Closer Than Ever](https://medium.com/prysmatic-labs/ethereum-2-0-serenity-testnet-update-closer-than-ever-259cace9a1b1) 
-    以太坊 2.0 Serenity 的 Prysm 客户端测试网即将上线，该客户端由 Prysmatic Labs 使用 Go 语言开发。此次测试网的目标是形成可用性高的网络，对分叉和不活跃的验证者具有弹性，允许新验证者根据协议规则加入网络，以参与权益证明（PoS）共识。以太坊 2.0 包括 6 个阶段，研发过程将延续数年，将由包括 Prysmatic Labs 等 8 支开发团队独立进行开发。      
+    以太坊 2.0 Serenity 的 Prysm 客户端测试网即将上线，该客户端由 Prysmatic Labs 使用 Go 语言开发。此次测试网的目标是形成可用性高的网络，对分叉和不活跃的验证者具有弹性，允许新验证者根据协议规则加入网络，以参与权益证明（PoS）共识。以太坊 2.0 包括 6 个阶段，研发过程将延续数年，将由包括 Prysmatic Labs 等 8 支开发团队独立进行开发。
 - EOS
   - [Presenting The eosfinex Testnet](https://medium.com/eosfinexproject/presenting-the-eosfinex-testnet-3f3ba93b2ed)
   - [EOSIO Contracts v1.6.0 Release Notes](https://github.com/EOSIO/eosio.contracts/releases/tag/v1.6.0)
@@ -51,11 +59,11 @@ TOP到底有多火呢？在上线前的几个小时内，朋友圈疯狂转发�
 
 看这架势，就不难理解为什么 TOP 上线被称作币圈双十一了！韭菜们都沸腾了！
 
-第一轮3亿枚 TOP 在1秒内全部抢购一空。可从文章《[火币 IEO 开盘，韭菜甚多](https://bihu.com/article/1421941450?i=4DGR&c=1&s=1yejVw&from=timeline&isappinstalled=0)》一文中感受到韭菜们想入场却抢不到的无奈。真的比春节回家的火车票都难抢！！！
+第一轮3亿枚 TOP 在 1 秒内全部抢购一空。可从文章《[火币 IEO 开盘，韭菜甚多](https://bihu.com/article/1421941450?i=4DGR&c=1&s=1yejVw&from=timeline&isappinstalled=0)》一文中感受到韭菜们想入场却抢不到的无奈。真的比春节回家的火车票都难抢！！！
 
-> 火币 Prime 完成首期项目 TOP Network上线，共计15亿个TOP，在三轮限价期中平均下单成功时间1秒，撮合成功时间分别是7秒、5秒、7秒。全球共计13万余人参与限价期交易，实际购得人数3764人，“中签率”仅为2%。Prime 二期项目将于新加坡时间4月16日（GMT+8）正式上线交易。- 《[火币Prime首期项目TOP Network完成上线，13万人参与](https://www.31qu.cn/flash_news/5c9a4cbda71d8e9287/)》
+> 火币 Prime 完成首期项目 TOP Network 上线，共计 15 亿个TOP，在三轮限价期中平均下单成功时间1秒，撮合成功时间分别是7秒、5秒、7秒。全球共计13万余人参与限价期交易，实际购得人数3764人，“中签率”仅为 2%。Prime 二期项目将于新加坡时间4月16日（GMT+8）正式上线交易。- 《[火币Prime首期项目TOP Network完成上线，13万人参与](https://www.31qu.cn/flash_news/5c9a4cbda71d8e9287/)》
 
-[本体糖果盒子](https://candy.ont.io/)也针对 TOP 搞了送糖果的活动。作为糖果盒子的开发团队，我们也十分开心看到7万人同时在线疯抢糖果的盛况。糖果盒子目前已经送出18,700,000个 TOP 糖果了，[《火爆继续！0.8秒抢光，7万人在线的本体&Candy Box糖果盒惊喜不断！》](https://mp.weixin.qq.com/s/9l3faBw_dJETOS5lmLfboA)，活动会持续到4月底，没抢到TOP的朋友们可以继续参与活动领 TOP。
+[本体糖果盒子](https://candy.ont.io/)也针对 TOP 搞了送糖果的活动。作为糖果盒子的开发团队，我们也十分开心看到 7 万人同时在线疯抢糖果的盛况。糖果盒子目前已经送出 18,700,000 个 TOP 糖果了，[《火爆继续！0.8秒抢光，7万人在线的本体&Candy Box糖果盒惊喜不断！》](https://mp.weixin.qq.com/s/9l3faBw_dJETOS5lmLfboA)，活动会持续到 4 月底，没抢到 TOP 的朋友们可以继续参与活动领 TOP。
 
 #### IEO 这种模式是否能长久？
 
@@ -63,7 +71,7 @@ TOP到底有多火呢？在上线前的几个小时内，朋友圈疯狂转发�
 
 我们冷静的分析一下，便可以发现 IEO 并不是什么新鲜的玩法，早在去年，一些中型的交易所如 Cobinhood 便已经免交易手续费，开始以首次代币发行的上币费为生。很多基于公链的 DAPP 项目也是一发币便可在去中心化交易所里流通。
 
-IEO 交易火爆的火爆是否会像 Fcoin 的交易挖矿一样落幕？很明显，因为 IEO 的热度，无论是币安Launchpad 还是 Huobi Prime 上线的项目，上线后的价格都已远超实际，当泡沫破灭热度下来之后，项目价格难免会回落到其真实价格。但无论 IEO  的项目未来发展如何，这波操作都为头部交易所带来了更多的流量和用户，让市场占有率不高的中小交易所的生存状态更加艰难。
+IEO 交易火爆的火爆是否会像 Fcoin 的交易挖矿一样落幕？很明显，因为 IEO 的热度，无论是币安 Launchpad 还是 Huobi Prime 上线的项目，上线后的价格都已远超实际，当泡沫破灭热度下来之后，项目价格难免会回落到其真实价格。但无论 IEO  的项目未来发展如何，这波操作都为头部交易所带来了更多的流量和用户，让市场占有率不高的中小交易所的生存状态更加艰难。
 
 
 ### 996/ICU 运动
@@ -82,7 +90,7 @@ IEO 交易火爆的火爆是否会像 Fcoin 的交易挖矿一样落幕？很明
 > “Technology must be used to liberate the individual.” 
 > 「科技必须用以给予个体自由。」
 
-正如纪录片 [*The Rise and Rise of Bitcoin*](https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2) 中开篇所提到的那样，比特币创立之初的初衷就是为了争取人类的自由。最近 [Aaron Swartz 的亲密战友](https://en.wikipedia.org/wiki/Virgil_Griffith)，Ethereum 基金会的研究员 [Virgil Griffith](https://medium.com/@virgilgr) 刚好也撰写了一篇文章 [*Ethereum is game-changing technology, literally*](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8?fbclid=IwAR2pdFZus2P9qtL96pd8WZ-jj1KqIBr0klpXFN6UrZtN5Ew1uBlsui-s1ik) 来阐述区块链和博弈论之间的联系。文章中描述了几种可能的场景来阐述为什么 “Ethereum is an unprecedented arena for playing cooperative games.”，其中包括 [囚徒困境 (The Prisoner’s Dilemma)]、[猎鹿赛局 (The Stag Hunt)](https://en.wikipedia.org/wiki/Stag_hunt)、[胆小鬼博弈 (The Chicken Game)](https://en.wikipedia.org/wiki/Chicken_(game)) 以及其他情形 (Warping Other Players’ Games)。
+正如纪录片 [*The Rise and Rise of Bitcoin*](https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2) 中开篇所提到的那样，比特币创立之初的初衷就是为了争取人类的自由。最近 [Aaron Swartz 的亲密战友](https://en.wikipedia.org/wiki/Virgil_Griffith)，Ethereum 基金会的研究员 [Virgil Griffith](https://medium.com/@virgilgr) 刚好也撰写了一篇文章 [*Ethereum is game-changing technology, literally*](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8?fbclid=IwAR2pdFZus2P9qtL96pd8WZ-jj1KqIBr0klpXFN6UrZtN5Ew1uBlsui-s1ik) 来阐述区块链和博弈论之间的联系。文章中描述了几种可能的场景来阐述为什么 “Ethereum is an unprecedented arena for playing cooperative games.”，其中就包括了 [囚徒困境 (The Prisoner’s Dilemma)](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)、[猎鹿赛局 (The Stag Hunt)](https://en.wikipedia.org/wiki/Stag_hunt)、[胆小鬼博弈 (The Chicken Game)](https://en.wikipedia.org/wiki/Chicken_(game)) 以及其他情形 (Warping Other Players’ Games)。
 
 我曾在多次会议上提到区块链技术会是一个 game-changing technology，可以改善人类社会生产关系的技术，使得未来大规模的人类协作成为可能。而如何用区块链在为公共财产和开源项目创造更加良好的激励机制，只是上面提到的框架中的一种特例。
 
@@ -166,5 +174,14 @@ Love, death and robots, watch on netflix.
 ## 即将到来 Upcoming
 
  ![图片](https://uploader.shimo.im/f/XImnCbGFkXoJ7ii1.png!thumbnail)
+ 
+ ### [04 月 08~10 日] [EDCON 黑客松](https://mp.weixin.qq.com/s/9h6tcjPzTzY3DrMFv39N7Q)，14500$ `Hackathon`
+[EDCON 2019](https://www.edcon.io/) （全球以太坊社区发展峰会）将于 04 月 08 日至 13 日在澳大利亚悉尼举行。本届峰会持续一周，主要包含 EDCON HACK 黑客松（04 月 08 日至 10 日）、 主分会场演讲（04 月 11 日至 13 日）以及会后派对（暂定）等。EDCON HACK 是一个为期三天的黑客松，除了总计 14500 美元的奖金之外，为了鼓励开发者的参与和创新，EDCON 会务组还将为所有黑客松参赛者提供免费门票，用于参与后续的主分会场演讲。
+
+### [04 月 15~30 日] [The Ethereal Hackathon](https://medium.com/gitcoin/the-ethereal-hackathon-4f5dc2eb56d6?fbclid=IwAR1hrGew3O67lxFSqZ16REY9Q-VJmiBMpi8cqQS7LNtHzQRBWo5RpY_eLNI)，25000$, `Hackathon`
+Gitcoin 是一家旨在 [Build OSS Sustainability](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4) 的由以太坊驱动的线上协作社区。这将会是 Gitcoin 举办的首场线上 Hackathon，除了优胜奖金之外，主办方还会给最终实现并上线的产品提供额外的资助，协办方包括但不限于 Microsoft, ConsenSys Labs, MythX。岛娘的朋友圈已经都在组队了，快来召集你的好友一起参加吧！
+
+### [04 月 13~15 日] [EOS WORLD EXPO 2019](https://www.eosworldexpo.com/) `EXPO`
+EOS World Expo 2019 将于下个中旬在三藩举行，作为一个 EOS Only 的 Event，从 [议程](https://www.eosworldexpo.com/#program-section) 上来看，这个活动会 Share 很多 EOS only 的 Insight，这些话题在其他公链上可是不多见的哦。
 
 仙女电波，关注宇宙人与赛博空间。投稿与订阅，请发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io) 或在 Github 下提交 pr，祝有好收获。
