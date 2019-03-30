@@ -1,6 +1,10 @@
 # 仙女电波  Vol. 0 创世纪
 `March 18, 2019 – March 25, 2019 刊`
 
+本期编辑：岛娘
+
+[hackmd 编辑地址](https://hackmd.io/s/Sku7Wxa_4)
+
 
 ![图片](https://uploader.shimo.im/f/wagpH0sCBnYUyEt1.png!thumbnail)
 
@@ -100,5 +104,4 @@ EOS World Expo 2019 将于下个中旬在三藩举行，作为一个 EOS Only �
 
 ![图片](https://uploader.shimo.im/f/cUIvxLznh6AIuSEZ.png!thumbnail)
 
-想要成为 Andoromeda 社区开发者？一起 Happy Hunting？
-订阅仙女电波，发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io), 简单介绍你自己，并附上自己的Github 地址，我们将会邮件您。
+仙女电波，关注宇宙人与赛博空间。投稿与订阅，请发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io) 或在 Github 下提交 pr，祝有好收获。
