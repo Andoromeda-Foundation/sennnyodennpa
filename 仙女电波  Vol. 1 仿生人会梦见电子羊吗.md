@@ -2,7 +2,11 @@
 `March 25, 2019 – April 01, 2019 刊`
 
 本期编辑：岛娘
+
 关注宇宙人与赛博空间
+
+[hackmd 实时地址](https://hackmd.io/s/S1XO6-v_E)
+
 
 ![图片](https://uploader.shimo.im/f/wagpH0sCBnYUyEt1.png!thumbnail)
 
@@ -13,6 +17,7 @@
   - [Segwit use is at all time high (closing on 50%!).](https://transactionfee.info/charts/payments/segwit)
   - [Lightning App Mainnet Demo](https://docs.google.com/presentation/d/140emL5LOheVPDLz6SOKS0l5Jtlw8jxghY6EyXO3CIAo/edit#slide=id.p)
     [Lightning Labs](https://twitter.com/lightning) 的 [@tankredhase](https://twitter.com/tankredhase) 放出了 [自己在刚刚结束的 Bitcoin meetup in Bali 上关于闪电网络应用的 Slide](https://twitter.com/tankredhase/status/1111458294386745345)。主要介绍了闪电网络的背景、现状、面临的挑战以及一些正在上面运行的应用。
+  - [Charlie Lee Takes the Lightning Torch](https://litecoin.com/en/news/charlie-lee-takes-the-lightning-torch)
 
 - ETH
   - [Understanding the Generalized Plasma Architecture](https://medium.com/plasma-group/plapps-and-predicates-understanding-the-generalized-plasma-architecture-fc171b25741) 
@@ -24,17 +29,30 @@
   - [EOSIO Contracts v1.6.0 Release Notes](https://github.com/EOSIO/eosio.contracts/releases/tag/v1.6.0)
     本周 EOS 社区两大进展，一定是 eosfinex 测试网上线以及 EOSIO Contracts 发布 1.6.0 版本了，这两项工作都是社区关注了很久的大工程。
 
-## 行业洞察 Industry Insight 
+## 行业洞察 Industry Insight 🔭
 ![图片](https://uploader.shimo.im/f/emne5rAAxEMyoZRZ.png!thumbnail)
 
 ### 火币 Prime
-- [火币 IEO 开盘，韭菜甚多](https://bihu.com/article/1421941450?i=4DGR&c=1&s=1yejVw&from=timeline&isappinstalled=0)
-- [火爆继续！0.8秒抢光，7万人在线的本体&Candy Box糖果盒惊喜不断！](https://mp.weixin.qq.com/s/9l3faBw_dJETOS5lmLfboA)
+**IEO** (Initial Exchange Offerings) 首次交易所发币这种募资方式随着币安重启 Launchpad 而被各大交易所相继效仿并走红。火币推出[火币 Prime](https://huobiglobal.zendesk.com/hc/zh-cn/articles/360000226302-%E5%85%B3%E4%BA%8E%E7%81%AB%E5%B8%81%E5%85%A8%E7%90%83%E7%AB%99%E4%BB%8A%E6%97%A521-00%E9%80%9A%E8%BF%87%E4%BC%98%E9%80%89%E9%80%9A%E9%81%93-Huobi-Prime-%E4%B8%8A%E7%BA%BFTOP-Network%E9%A1%B9%E7%9B%AE%E4%BA%A4%E6%98%93%E7%BB%86%E5%88%99), OKEx 推出 [OK Jumpstart](https://www.prnewswire.com/news-releases/okex-announces-upcoming-launch-of-ieo-platform-ok-jumpstart-300811412.html)，连美国加密货币交易所 Bittrex 也宣布推出 IEO 平台。
+
+火币 Prime 推出的第一个IEO 项目就是 [TOP Network](https://www.topnetwork.org/) 的代币 TOP。TOP的发行分三轮，发行价格分别是第一轮：1 TOP=0.000708 HT； 第二轮：1 TOP=0.000852 HT； 第三轮：1 TOP=0.001020 HT(基于2.500USD的HT价格)。第一轮3亿枚 TOP 在1秒内全部抢购一空。可从文章《[火币 IEO 开盘，韭菜甚多](https://bihu.com/article/1421941450?i=4DGR&c=1&s=1yejVw&from=timeline&isappinstalled=0)》一文中感受到韭菜们想入场却抢不到的无奈。
+
+> 火币 Prime 完成首期项目 TOP Network上线，共计15亿个TOP，在三轮限价期中平均下单成功时间1秒，撮合成功时间分别是7秒、5秒、7秒。全球共计13万余人参与限价期交易，实际购得人数3764人，“中签率”仅为2%。Prime 二期项目将于新加坡时间4月16日（GMT+8）正式上线交易。- 《[火币Prime首期项目TOP Network完成上线，13万人参与](https://www.31qu.cn/flash_news/5c9a4cbda71d8e9287/)》
+
+[本体糖果盒子](https://candy.ont.io/)也针对 TOP 搞了送糖果的活动，作为糖果盒子的开发团队，我们也十分开心看到7万人同时在线疯抢糖果。糖果盒子目前已经送出18,700,000个TOP糖果了，[《火爆继续！0.8秒抢光，7万人在线的本体&Candy Box糖果盒惊喜不断！》](https://mp.weixin.qq.com/s/9l3faBw_dJETOS5lmLfboA)，活动会持续到4月底，没抢到TOP的朋友们可以继续参与活动领TOP。
+
+
+#### IEO 这种模式是否能长久？
+
+我们冷静的分析一下，便可以发现 IEO 并不是什么新鲜的玩法，早在去年，一些中型的交易所如 Cobinhood 便已经免交易手续费，开始以首次代币发行的上币费为生。很多基于公链的DAPP项目也是一发币便可在去中心化交易所里流通。
+
+IEO交易火爆的火爆是否会像Fcoin的交易挖矿一样落幕？
+
 
 ### 996/ICU
 [![Liberty Leading the People](https://i.imgur.com/btobB5p.jpg)](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 
-[996/ICU](https://github.com/996icu/996.ICU) 项目持续发酵，截止发稿时为止 star 数已超十万，并已在 Github Trending 排行榜连续多天位列第一。除了国内的媒体[^1][^2]，海外媒体也开始陆续报道[^3]。有人认为 996/ICU 运动代表着码农们劳工意识的觉醒，但也有人担忧这一项运动也有可能和她的前辈们一样，未必能达到她预想之目的。还有人提出创造 996/ICU Lience 的方法，虽然也饱受争议，但是也不失为一种反击。
+[996/ICU](https://github.com/996icu/996.ICU) 项目持续发酵，截止发稿时为止 star 数已超十万，并已在 Github Trending 排行榜连续多天位列第一。除了国内的媒体[^1][^2]，海外媒体也开始陆续报道[^3]，就连 Python 之父 [@gvanrossum](https://twitter.com/gvanrossum) 也 [加入声援](https://twitter.com/gvanrossum/status/1111628076801236993)。有人认为 996/ICU 运动代表着码农们劳工意识的觉醒，但也有人担忧这一项运动也有可能和她的前辈们一样，未必能达到她预想之目的。还有人提出创造 996/ICU Lience 的方法，虽然也饱受争议，但是也不失为一种反击。
 
 “Technology must be used to liberate the individual.” 正如纪录片 [*The Rise and Rise of Bitcoin*](https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2) 中开篇所提到的那样，比特币创立之初的初衷就是为了争取人类的自由。最近 [Aaron Swartz 的亲密战友](https://en.wikipedia.org/wiki/Virgil_Griffith)，Ethereum 基金会的研究员 [Virgil Griffith](https://medium.com/@virgilgr) 刚好也撰写了一篇文章 [*Ethereum is game-changing technology, literally*](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8?fbclid=IwAR2pdFZus2P9qtL96pd8WZ-jj1KqIBr0klpXFN6UrZtN5Ew1uBlsui-s1ik) 来阐述区块链和博弈论之间的联系。文章中描述了几种可能的场景来阐述为什么 “Ethereum is an unprecedented arena for playing cooperative games.”，其中包括囚徒困境 (The Prisoner’s Dilemma)、猎鹿赛局 (The Stag Hunt)、胆小鬼博弈 (The Chicken Game) 以及包括 Warping Other Players’ Games。
 
@@ -52,7 +70,7 @@
 ### GDC
 - [一场真正的全球开发者大会，gamedev.world中国区演讲者持续征集中](https://mp.weixin.qq.com/s/JzzWpmEtq21Cta1DxfRi7w)
 
-## 密码朋克 Cypherpunk
+## 密码朋克 Cypherpunk 💻
 
 ### 图灵奖
 03 月 27 日，Geoffrey Hinton、Yann LeCun 和 Yoshua Bengio [被正式授予](https://www.acm.org/media-center/2019/march/turing-award-2018) 计算机科学界的最高荣誉 —— ACM 图灵奖。三位很早就已经是自己领域教父和大师级别的人物了。
@@ -88,14 +106,20 @@
 - [Coindesk, Whitfield Diffie Talks Cryptography ‘Resurgence’ and Blockchain](https://www.coindesk.com/whitfield-diffie-talks-cryptography-resurgence-blockchain)
 
 ### BLS 签名
-- [BLS in Slow Mo](https://notes.ethereum.org/GoHNftR3SquCsWMqMG2YPA?view)
-- [The Ethereum Sharding Meeting #2 - Berlin 5. BLS aggregation by Vitalik Buterin and Justin Drake](https://www.youtube.com/watch?v=DpV0Hh9YajU&list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ&index=5)
 
-Ethereum Casper — 認識 BLS signature
-https://medium.com/taipei-ethereum-meetup/ethereum-casper-%E8%AA%8D%E8%AD%98-bls-signature-f9fdecf63bb0
+[Taipei Ethereum Meetup 的 Chih-Cheng Liang 在本周三晚上主持了另一场活动 —— Diode & BLS Signature Meetup](https://www.facebook.com/groups/443751072484739/permalink/1078384892354684/)，Peter Lai 与 Dominic 介绍了 Diode 在 IoT 与区块链结合的分享，而 Chih-Cheng Liang 则介绍了 BLS 签名。两段简报和视频整理如下：
+
+Slide：[Blockchains for Decentralized PKI on IoT Devices](https://docs.google.com/presentation/d/1qVgH8QnPMmV7yAVy4D_gLzJISawlgG7hcVpltqsacnQ/edit?fbclid=IwAR1XJLHqVY7hkS9vQyRm8urx9PDqFx9SAo9sGF5N1V27IlOpLuIquD0Irck#slide=id.p1) | [BLS Signatures](https://notes.ethereum.org/GoHNftR3SquCsWMqMG2YPA?view)
+Stream: [Making IoT more SECURE with Blockchain](https://www.youtube.com/watch?v=qfEGzzYC9r4&feature=youtu.be&fbclid=IwAR3XkxIVyLVYVol3XpOhMZU_eIFswIPd65fJg0XPCcCbJ9FxftqTRESIo4s) | [BLS Signatures](https://www.youtube.com/watch?v=8czJDysS33U&feature=youtu.be&fbclid=IwAR3TCobgjYk0E3A5tE7OYtiTn9gwMkj-cZhrlIdBJKwKqDzbdtOPzeg01OQ)
+
+和 RSA 签名 一样，BLS 签名也是发明人名字的缩写。BLS 签名最大的特性是可以将 O(n) 个签名加起来然后用 O(1) 的时间进行验证。以目前的 Ethereum 为例，Casper 中的 validators 数量约为 30 万计，而每一个 finality 都需要 2/3 的节点做投票，光是验证这些签名，可能就会花掉一天的时间，这也是目前 Casper 所面临的瓶颈之一。Ethereum 的研究院 Justin Drake 去年提出了这个方案[^6][^7]，关于 BLS 签名的详细介绍也可以参考 [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716) 一文。
+
+[^6]: [The Ethereum Sharding Meeting #2 - Berlin 5. BLS aggregation by Vitalik Buterin and Justin Drake](https://www.youtube.com/watch?v=DpV0Hh9YajU&list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ&index=5)
+
+[^7]: [Ethereum Casper  —  認識 BLS signature](https://medium.com/taipei-ethereum-meetup/ethereum-casper-%E8%AA%8D%E8%AD%98-bls-signature-f9fdecf63bb0)
 
 
-### 爱、杀、机器人
+### 爱、杀、机器人 ❤️💀🤖️
 Love, death and robots, watch on netflix.
 今天你看了么？
 

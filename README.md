@@ -1,105 +1,132 @@
-# 仙女电波  Vol. 0 创世纪
-`March 18, 2019 – March 25, 2019 刊`
+# 仙女电波  Vol. 1 仿生人会梦见电子羊吗
+`March 25, 2019 – April 01, 2019 刊`
+
+本期编辑：岛娘
+
+关注宇宙人与赛博空间
+
+[hackmd 实时地址](https://hackmd.io/s/S1XO6-v_E)
 
 
 ![图片](https://uploader.shimo.im/f/wagpH0sCBnYUyEt1.png!thumbnail)
 
 ## 数据与增量 Data & Delta
 
-[Coin Dance](https://coin.dance/) | [Blockchair](https://blockchair.com/) | [Bitcoinvisuals](https://bitcoinvisuals.com/) | [More](https://medium.com/@chainnews/%E9%80%81%E4%BD%A0-22-%E4%B8%AA%E9%93%BE%E4%B8%8A%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%A9%E5%99%A8-%E6%B4%9E%E7%A9%BF%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E9%87%8D%E9%87%8D%E8%BF%B7%E9%9B%BE-b57f5b4b5727)
-
-| | BTC | ETH | EOS |
-|---:|:--:|:--:|:--:|
-|Price(usd)| [3,980~3,993](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/historical_data/usd?end_date=2019-03-25&start_date=2019-03-18#panel) | [138~136](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/historical_data/usd?end_date=2019-03-25&start_date=2019-03-18#panel)|[3.74~3.63](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%9F%9A%E5%AD%90%E5%B8%81/historical_data/usd?end_date=2019-03-25&start_date=2019-03-18#panel)|
-| HashRate | [43E~52E](https://bitcoinvisuals.com/chain-hash-rate)  | [144~150](https://etherscan.io/chart/hashrate) | |
-| Fees | [17~36 BTC]((https://www.blockchain.com/charts/transaction-fees)) | [347~566 ETH](https://etherscan.io/chart/transactionfee)| |
-|TPS|[2.66~3.59](https://bitcoinvisuals.com/chain-tx-second)|[6](https://etherscan.io/chart/tx)|[30~60](https://eospark.com/titan?page=transactions-summary)|
-|Github Pulse|[+13/-12](https://github.com/bitcoin/bitcoin/pulse)|[+14/-16](https://github.com/ethereum/go-ethereum/pulse)|[+15/-8](https://github.com/EOSIO/eos/pulse)|
-
-
 ### 基建 Infra
 - BTC
-  - [Announcing Lightning Loop Alpha](https://blog.lightning.engineering/posts/2019/03/20/loop.html)
+  - [Segwit use is at all time high (closing on 50%!).](https://transactionfee.info/charts/payments/segwit)
+  - [Lightning App Mainnet Demo](https://docs.google.com/presentation/d/140emL5LOheVPDLz6SOKS0l5Jtlw8jxghY6EyXO3CIAo/edit#slide=id.p)
+    [Lightning Labs](https://twitter.com/lightning) 的 [@tankredhase](https://twitter.com/tankredhase) 放出了 [自己在刚刚结束的 Bitcoin meetup in Bali 上关于闪电网络应用的 Slide](https://twitter.com/tankredhase/status/1111458294386745345)。主要介绍了闪电网络的背景、现状、面临的挑战以及一些正在上面运行的应用。
+  - [Charlie Lee Takes the Lightning Torch](https://litecoin.com/en/news/charlie-lee-takes-the-lightning-torch)
+
 - ETH
-  - [Sunsetting Mist](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2)
-  - [Who Are The Core Devs of Ethereum? (Part I)](https://medium.com/ethex-market/who-are-the-core-devs-of-ethereum-part-i-beb342aaaff0) | [(Part II)](https://medium.com/ethex-market/who-are-the-core-devs-of-ethereum-part-ii-3f64b4e5850a)
+  - [Understanding the Generalized Plasma Architecture](https://medium.com/plasma-group/plapps-and-predicates-understanding-the-generalized-plasma-architecture-fc171b25741) 
+    Plasma Group 最近写了一篇文章，深入介绍一般化的 Plasma 架构，推荐想自己搭建 Plasma 侧链的开发人员阅读。    
+  - [Ethereum 2.0 Serenity Testnet Update — Closer Than Ever](https://medium.com/prysmatic-labs/ethereum-2-0-serenity-testnet-update-closer-than-ever-259cace9a1b1) 
+    以太坊 2.0 Serenity 的 Prysm 客户端测试网即将上线，该客户端由 Prysmatic Labs 使用 Go 语言开发。此次测试网的目标是形成可用性高的网络，对分叉和不活跃的验证者具有弹性，允许新验证者根据协议规则加入网络，以参与权益证明（PoS）共识。以太坊 2.0 包括 6 个阶段，研发过程将延续数年，将由包括 Prysmatic Labs 等 8 支开发团队独立进行开发。      
 - EOS
-  - [EOSIO.CDT 1.6.0 Release](https://medium.com/@eosio/eosio-cdt-version-1-6-0-building-towards-a-more-seamless-contract-development-experience-2816084a4615)
+  - [Presenting The eosfinex Testnet](https://medium.com/eosfinexproject/presenting-the-eosfinex-testnet-3f3ba93b2ed)
+  - [EOSIO Contracts v1.6.0 Release Notes](https://github.com/EOSIO/eosio.contracts/releases/tag/v1.6.0)
+    本周 EOS 社区两大进展，一定是 eosfinex 测试网上线以及 EOSIO Contracts 发布 1.6.0 版本了，这两项工作都是社区关注了很久的大工程。
 
-
-### 应用 Dapp
-* [HashBaby](http://hashbaby.com)
-* [CandyOnt](https://candy.ont.io)
-
-
-## 行业洞察 Industry Insight 
-
+## 行业洞察 Industry Insight 🔭
 ![图片](https://uploader.shimo.im/f/emne5rAAxEMyoZRZ.png!thumbnail)
 
-### V神首次提出「ZK ZK Rollup」以太坊扩容方案 
-以太坊创始人Vitalik于3月15日在台北的演讲上提出[「ZK ZK Rollup」](https://medium.com/@trenton.v/transcript-scalable-blockchains-as-data-layers-vitalik-buterin-11aa18b37e07)的以太坊 Layer 2 层面的扩容方案，可点击链接查阅演讲的 [PPT](https://docs.google.com/presentation/d/1EVjrZhoxw-ikzelFGGv7czxuJsIIWfl5I-CPIlnjsME/edit#slide=id.p) 和 [视频](https://www.youtube.com/watch?v=mOm47gBMfg8)。岛娘也在《[零知识证明与区块链扩容 Zero Knowledge && Blockchain Scalability》](https://hackmd.io/s/rJ5xKzeuN#%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E%E4%B8%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%89%A9%E5%AE%B9-Zero-Knowledge-ampamp-Blockchain-Scalability)一文中对区块链扩容进行了自己的解读。
+### 火币 Prime
+**IEO** (Initial Exchange Offerings) 首次交易所发币这种募资方式随着币安重启 Launchpad 而被各大交易所相继效仿并走红。火币推出[火币 Prime](https://huobiglobal.zendesk.com/hc/zh-cn/articles/360000226302-%E5%85%B3%E4%BA%8E%E7%81%AB%E5%B8%81%E5%85%A8%E7%90%83%E7%AB%99%E4%BB%8A%E6%97%A521-00%E9%80%9A%E8%BF%87%E4%BC%98%E9%80%89%E9%80%9A%E9%81%93-Huobi-Prime-%E4%B8%8A%E7%BA%BFTOP-Network%E9%A1%B9%E7%9B%AE%E4%BA%A4%E6%98%93%E7%BB%86%E5%88%99), OKEx 推出 [OK Jumpstart](https://www.prnewswire.com/news-releases/okex-announces-upcoming-launch-of-ieo-platform-ok-jumpstart-300811412.html)，连美国加密货币交易所 Bittrex 也宣布推出 IEO 平台。
 
->ZK ZK Rollup 的基本思想就是在 ZK Rollup 的基础上在里面嵌入一个 Mini 版本的 Zcash 机制。这样 Relayer 就无需发布 Txs，而只要发布每次的交易回执（Receipts）即可。除了和 ZK Rollup 一样可以提高 tps 之外，Vatalik 也提到了这种方法的一些潜在应用，其中最为激动人心的的应用就是可以加速跨片之间的交易。
+火币 Prime 推出的第一个IEO 项目就是 [TOP Network](https://www.topnetwork.org/) 的代币 TOP。TOP的发行分三轮，发行价格分别是第一轮：1 TOP=0.000708 HT； 第二轮：1 TOP=0.000852 HT； 第三轮：1 TOP=0.001020 HT(基于2.500USD的HT价格)。第一轮3亿枚 TOP 在1秒内全部抢购一空。可从文章《[火币 IEO 开盘，韭菜甚多](https://bihu.com/article/1421941450?i=4DGR&c=1&s=1yejVw&from=timeline&isappinstalled=0)》一文中感受到韭菜们想入场却抢不到的无奈。
 
->ZK Rollup 本质上也是一种空间换时间的策略，将每次交易的回执放在链上做验证，而把计算任务放在侧链中完成。通过 ZK ZK Rollup，我们可以更清楚的认识到为什么说 Layer 2 解决方案是不可或缺的了。 
-## X-Order「货币战争」系列
-《[脑洞：从 BNB 重解商品、证券、货币三位一体「超级载体」的未来意义](https://www.chainnews.com/articles/942975463413.htm)》从劳动结晶这一概念出发，跨越时空维度分析并提出了一个重要观点：“通证其实可以通过设计被任意定制化成不同形态，它是商品，证券和货币的超集，它可以集三位于一体”，并用BNB作为案例予以论证。
+> 火币 Prime 完成首期项目 TOP Network上线，共计15亿个TOP，在三轮限价期中平均下单成功时间1秒，撮合成功时间分别是7秒、5秒、7秒。全球共计13万余人参与限价期交易，实际购得人数3764人，“中签率”仅为2%。Prime 二期项目将于新加坡时间4月16日（GMT+8）正式上线交易。- 《[火币Prime首期项目TOP Network完成上线，13万人参与](https://www.31qu.cn/flash_news/5c9a4cbda71d8e9287/)》
 
-@小仙女解读：
-文中引入了时间维度，描述了货币即单位劳动结晶、商品即过去劳动结晶、证券即未来劳动结晶。并同时增加了空间概念，认为 BNB 是商品、证券、货币三位一体的超级载体，可能会代替今天的证券以及货币。
-
-然后我们回顾一下证券的分类：1.货币证券，可用来代替货币使用的有价证券，如汇票、支票。2.资本证券，把资本投入企业或把资本供给企业获国家的一种书面证明文件，如股票、债券。3.商品证券，对货物有提取权的证明，如提货单。对标同样的BNB用途图解：
-
-![图片](https://uploader.shimo.im/f/qpWJKWDWXGoMJRCs.png!thumbnail)
-（图片来源：《[脑洞：从 BNB 重解商品、证券、货币三位一体「超级载体」的未来意义](https://www.chainnews.com/articles/942975463413.htm)》）
-
-与讨论时间维度相比，小仙女更看重空间维度：交换空间的大小与“劳动结晶”的数量影响了流动性从而影响价格。什么影响了价格？价值量+供给与需求。价格亦等于成本+价值，联想“劳动结晶”即“劳动成本”。因此BNB在追求的无非是更大的空间。
-
-小仙女认为，传统的宏观经济及金融理论仍然是解析数字货币及其市场的重要工具。但对于Token 本身的特点更具有探讨价值，如可编程性及互操作性。考虑到该特性并为将其充分将其转化为流动性，扩大 Token 的空间维度，我们一直推崇 ”One Dapp One Token“，这里的Dapp可以狭义理解为 smart contract , 或广义的理解为 Everything。
+[本体糖果盒子](https://candy.ont.io/)也针对 TOP 搞了送糖果的活动，作为糖果盒子的开发团队，我们也十分开心看到7万人同时在线疯抢糖果。糖果盒子目前已经送出18,700,000个TOP糖果了，[《火爆继续！0.8秒抢光，7万人在线的本体&Candy Box糖果盒惊喜不断！》](https://mp.weixin.qq.com/s/9l3faBw_dJETOS5lmLfboA)，活动会持续到4月底，没抢到TOP的朋友们可以继续参与活动领TOP。
 
 
+#### IEO 这种模式是否能长久？
 
-![图片](https://uploader.shimo.im/f/8UuseBzpdesLq3Ok.png!thumbnail)
+我们冷静的分析一下，便可以发现 IEO 并不是什么新鲜的玩法，早在去年，一些中型的交易所如 Cobinhood 便已经免交易手续费，开始以首次代币发行的上币费为生。很多基于公链的DAPP项目也是一发币便可在去中心化交易所里流通。
 
-
-### HashBaby 
-Hashbaby 日前的交易量不断上升，多家媒体都有报道：[《我们体验了这款最刺激的DAPP，感到浑身沸腾》](https://mp.weixin.qq.com/s/yHOFMNnIwBNnp3AJrCvtug)、[《波多野结衣的“币圈地震”续：区块链成人产业正野蛮生长》](https://mp.weixin.qq.com/s/IYw7bhmfvxkIa9mWhEamSw)。Hashbaby 用了IPFS 技术来存储图片，而发送或编辑帖子、点赞、打赏等操作则以事件的形式写入EOS区块链。从工程的角度来说，该项目的开发的完成度并不高，尚未提供复杂的功能。但由于发帖和点赞可以“挖矿”，数据一路攀升。
-
-项目初期，有玩家把“币圈”大佬和"女神“的P图传到Hashbaby, 并在DApp圈儿流传，吸引了不少眼球。像Hashbaby这样的情色项目虽博人眼球，但不利于行业的长期发展。
+IEO交易火爆的火爆是否会像Fcoin的交易挖矿一样落幕？
 
 
-![图片](https://uploader.shimo.im/f/ALeO39QoxUY7oCEi.png!thumbnail)
-![图片](https://uploader.shimo.im/f/hKV2ZpUmTrgelkYf.png!thumbnail)
-(数据来源：[DApp.review ](https://dapp.review/dapp/10761/#hashbaby)) 
+### 996/ICU
+[![Liberty Leading the People](https://i.imgur.com/btobB5p.jpg)](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 
-## Candy Ont
->Ontology 最近变得比较热，可能一方面原因是 TOP Network 是 Ont 官方的合作对象，另一方面 Ont 也在进一步扩张，关于 sharding 这块落地也在预期，而合作方包括红杉、真格。不过 Ont 的总体体量已经比较大，其中 Ong 的使用也是关键。大家可以多关注一下。
->—— [Outliers' niche 另类生境 2019-3-21 第50期](https://github.com/xorder-project/Outliers-niche/blob/master/outliers_niche_issue50.md)
+[996/ICU](https://github.com/996icu/996.ICU) 项目持续发酵，截止发稿时为止 star 数已超十万，并已在 Github Trending 排行榜连续多天位列第一。除了国内的媒体[^1][^2]，海外媒体也开始陆续报道[^3]，就连 Python 之父 [@gvanrossum](https://twitter.com/gvanrossum) 也 [加入声援](https://twitter.com/gvanrossum/status/1111628076801236993)。有人认为 996/ICU 运动代表着码农们劳工意识的觉醒，但也有人担忧这一项运动也有可能和她的前辈们一样，未必能达到她预想之目的。还有人提出创造 996/ICU Lience 的方法，虽然也饱受争议，但是也不失为一种反击。
 
-这里提到的 TOP Network 就是最近大热的 Huobi Prime 上线的 TOP Network 了！[TOP network](https://www.topnetwork.org/) 是第四代分布式通信网络，本质上是把原有的中心化通信系统做了一个链改，是不是有点类似隔壁 Telegram 的 TON network 呢？公司原有产品叫 [叮咚](https://itunes.apple.com/tw/app/%E5%8F%AE%E5%92%9A-%E7%B6%B2%E7%B5%A1%E9%9B%BB%E8%A9%B1-%E5%9C%8B%E5%85%A7%E5%9C%8B%E9%9A%9B%E9%95%B7%E9%80%94/id588937297)，是一款通信 APP，可以用于收发短信和语音通话。据称有一亿营收。TOP 下个月 testnet 上线，实现了分片和 7000+TPS。该项目将于 03月 26 号上线火币 Prime。关于 Huobi Prime 的更多信息，可以参阅：[火讯专访火币翁晓奇： IEO 是一个跑得快的游戏，Prime 本质是双 11](https://mp.weixin.qq.com/s/T9_ziryPyyUHsw-TKSmmpg)。
+“Technology must be used to liberate the individual.” 正如纪录片 [*The Rise and Rise of Bitcoin*](https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2) 中开篇所提到的那样，比特币创立之初的初衷就是为了争取人类的自由。最近 [Aaron Swartz 的亲密战友](https://en.wikipedia.org/wiki/Virgil_Griffith)，Ethereum 基金会的研究员 [Virgil Griffith](https://medium.com/@virgilgr) 刚好也撰写了一篇文章 [*Ethereum is game-changing technology, literally*](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8?fbclid=IwAR2pdFZus2P9qtL96pd8WZ-jj1KqIBr0klpXFN6UrZtN5Ew1uBlsui-s1ik) 来阐述区块链和博弈论之间的联系。文章中描述了几种可能的场景来阐述为什么 “Ethereum is an unprecedented arena for playing cooperative games.”，其中包括囚徒困境 (The Prisoner’s Dilemma)、猎鹿赛局 (The Stag Hunt)、胆小鬼博弈 (The Chicken Game) 以及包括 Warping Other Players’ Games。
 
-而本体的用户已经在 03 月 25 日抢先体验 TOP 的热度啦，根据糖果盒子的开发团队透露（其实就是我们），Candy Ont 上线的首个项目 TOP 第一天上线不到 0.89s 中，5000, 000 额度的 TOP 就被洗劫一空！没有抢到的你也不要拍断大腿，今晚还有一轮，同样是 5000, 000 额度！
+我曾在多次会议上提到区块链技术会是一个 game-changing technology，可以改善人类社会生产关系的技术，使得未来大规模的人类协作城管委可能。
+而如何用区块链在为公共财产和开源项目创造更加良好的激励机制，只是上面提到的框架中的一种特例。
+
+关于这一点可以阅读 Gitcoin 的创始人 [Kevin Owocki](https://medium.com/@owocki) 的文章，[*Open Source Money will BUIDL the Open Source Ecosystem*](https://medium.com/gitcoin/open-source-money-will-buidl-the-open-source-ecosystem-f4169def8748)。
+
+[^1]: [程序员不能忍996了！没有X生活，生病ICU，发起抗议网站，GitHub一小时破千星](https://mp.weixin.qq.com/s/HSuG0Hb0gI2ILxbN2ubWvg)
+
+[^2]: [用代码抗议996加班：集结在github上的程序员，正在进行一场社会实验](https://mp.weixin.qq.com/s/r_FLd7MvRHUSMOVmRS0elQ)
+
+[^3]: [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+
+### GDC
+- [一场真正的全球开发者大会，gamedev.world中国区演讲者持续征集中](https://mp.weixin.qq.com/s/JzzWpmEtq21Cta1DxfRi7w)
+
+## 密码朋克 Cypherpunk 💻
+
+### 图灵奖
+03 月 27 日，Geoffrey Hinton、Yann LeCun 和 Yoshua Bengio [被正式授予](https://www.acm.org/media-center/2019/march/turing-award-2018) 计算机科学界的最高荣誉 —— ACM 图灵奖。三位很早就已经是自己领域教父和大师级别的人物了。
+
+[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)，多伦多大学的名誉大学教授，谷歌副总裁兼工程研究员，Vector Institute 的首席科学顾问。Hinton 最重要的贡献来自他的三篇 Paper。
+
+- 1985 年发表的关于 [玻尔兹曼机](https://exacity.github.io/deeplearningbook-chinese/Chapter20_deep_generative_models/) 的学习算法。[Ackley, David H; Hinton Geoffrey E; Sejnowski, Terrence J (1985), "A learning algorithm for Boltzmann machines", Cognitive science, Elsevier, 9 (1): 147–169](https://en.wikipedia.org/wiki/Geoffrey_Hinton#cite_ref-30)
+- 1986 年发表的 [反向传播](https://exacity.github.io/deeplearningbook-chinese/Chapter6_deep_feedforward_networks/)。 [Rumelhart, David E.; Hinton, Geoffrey E.; Williams, Ronald J. (9 October 1986). "Learning representations by back-propagating errors". Nature. 323 (6088): 533–536. doi:10.1038/323533a0. ISSN 1476-4687](https://www.google.com/search?q=Learning+Internal+Representations+by+Error+Propagation&ie=utf-8&oe=utf-8&aq=t)
+- 2012 年发明深度卷积网络做 [ImageNet](https://en.wikipedia.org/wiki/ImageNet) 上的图像分类。[ Krizhevsky, Alex; Sutskever, Ilya; Hinton, Geoffrey E. (3 December 2012). "ImageNet classification with deep convolutional neural networks". Nips'12. Curran Associates Inc.: 1097–1105](https://en.wikipedia.org/wiki/Geoffrey_Hinton#cite_note-21)
+
+[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)，纽约大学教授，同时也是 Facebook 的副总裁和首席人工智能科学家。Yann LeCun 的代表贡献之一是卷积神经网络。
+
+[Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)，蒙特利尔大学教授，魁北克人工智能研究所 Mila 科学主任，与 Ian Goodfellow、Aaron Courville 合著的[《深度学习》](https://github.com/exacity/deeplearningbook-chinese)一直是这个领域的经典教材（因为封面是一副用魔改的 Google DeepDream 算法生成的纽约中央公园的杜鹃小径（[Dreamscape: Azalea Walk, Central Park, NYC](https://www.google.com/search?newwindow=1&ei=J4WeXIXcKpCOr7wP5teG-Ag&q=Dreamscape%3A+Azalea+Walk%2C+Central+Park&oq=Dreamscape%3A+Azalea+Walk%2C+Central+Park&gs_l=psy-ab.3..0i8i30.252998.252998..253180...0.0..0.138.138.0j1......0....2j1..gws-wiz.RdFXLZsHnv0)），所以该书又被称为“花书”）。Bengio 的主要贡献是在 1990 年代发明的 Probabilistic models of sequences。
+
+（岛娘：我在人家作出图灵奖成就的年龄，就已经有和图灵奖得主的 [合照](https://i.imgur.com/8M7t6Ro.jpg) 了！）
+
+有趣的是，早在 2016 年 03 月，知乎上就曾出现过一篇 [神寓言](https://www.zhihu.com/question/33911668)。有趣的是，下面大部分的回答都是 —— “不能”。这些回答不少出自一些机器学习从业者和研究人员，有些理由也不无道理。遗憾的是，一些优秀的回答在被打脸之后选择了删帖来避免尴尬。不过好在我们还可以通过 Internet Web Archive 来进行 [考古](https://web.archive.org/web/20161011113820/https://www.zhihu.com/question/33911668)。
+
+这可能与近年来深度学习炙手可热，特别是 [2016 年 AlphaGo 击败李世乭](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol)，紧接着第二年在 [乌镇围棋峰会](https://en.wikipedia.org/wiki/Future_of_Go_Summit) 上击败柯洁。2019 年又进化成 AlphaStar 击败 Team Liquid[^4]。隔壁 Open AI 也不甘示弱，2017 年在 TI7 表演了 1v1 中单 Solo，2018 年 TI8 中就已经可以 5v5 了。大老师也成为直播中经常会参考的数据。人工智能确实已经深入持续的开始影响到了我们生活的方方面面。柯洁也在与 AlphaGo 对决后似乎打通了任督二脉，连续 22 连胜时，自己就表示 “[AlphaGo 对自己的启发非常大，因为我现在的招法基本上就是向它学习](https://www.zhihu.com/question/37093821/answer/392011117)”。
+
+就连正在举办的 2019 ICPC World Final 中，也增加了 [Neural Network Challenge](https://icpc.baylor.edu/compete/challenge?fbclid=IwAR0yiZf80aftYawGvZzbd9ivRSCmn-1zZXBOT_daVofR2DuVvwgR668Nt2A)。
+
+于是，我们不禁要问一个对偶的问题，Satoshi Nakamoto、Vitalik Buterin 或 Zooko Wilcox 能得图灵奖吗？
+
+[^4]: [Game highlights of AlphaStar versus Team Liquid’s TLO and MaNa](https://www.youtube.com/watch?v=6EQAsrfUIyo)
+
+### Satoshi Nakamoto、Vitalik Buterin 或 Zooko Wilcox 能得图灵奖吗？
+
+(挪到下期)
+
+- [Crypto Consensus 2018 Day1 Final Panel - Whitfield Diffie, Zooko Wilcox](https://youtu.be/lNc_EBinffI?t=28904)
+- [圖靈獎得主 Whitfield Diffie 表示：區塊鏈與加密貨幣代表著密碼學的復興](https://blockcast.it/2018/05/15/cryptography-legend-whitfielddiffie-talk-about-crypto/)
+- [Coindesk, Whitfield Diffie Talks Cryptography ‘Resurgence’ and Blockchain](https://www.coindesk.com/whitfield-diffie-talks-cryptography-resurgence-blockchain)
+
+### BLS 签名
+
+[Taipei Ethereum Meetup 的 Chih-Cheng Liang 在本周三晚上主持了另一场活动 —— Diode & BLS Signature Meetup](https://www.facebook.com/groups/443751072484739/permalink/1078384892354684/)，Peter Lai 与 Dominic 介绍了 Diode 在 IoT 与区块链结合的分享，而 Chih-Cheng Liang 则介绍了 BLS 签名。两段简报和视频整理如下：
+
+Slide：[Blockchains for Decentralized PKI on IoT Devices](https://docs.google.com/presentation/d/1qVgH8QnPMmV7yAVy4D_gLzJISawlgG7hcVpltqsacnQ/edit?fbclid=IwAR1XJLHqVY7hkS9vQyRm8urx9PDqFx9SAo9sGF5N1V27IlOpLuIquD0Irck#slide=id.p1) | [BLS Signatures](https://notes.ethereum.org/GoHNftR3SquCsWMqMG2YPA?view)
+Stream: [Making IoT more SECURE with Blockchain](https://www.youtube.com/watch?v=qfEGzzYC9r4&feature=youtu.be&fbclid=IwAR3XkxIVyLVYVol3XpOhMZU_eIFswIPd65fJg0XPCcCbJ9FxftqTRESIo4s) | [BLS Signatures](https://www.youtube.com/watch?v=8czJDysS33U&feature=youtu.be&fbclid=IwAR3TCobgjYk0E3A5tE7OYtiTn9gwMkj-cZhrlIdBJKwKqDzbdtOPzeg01OQ)
+
+和 RSA 签名 一样，BLS 签名也是发明人名字的缩写。BLS 签名最大的特性是可以将 O(n) 个签名加起来然后用 O(1) 的时间进行验证。以目前的 Ethereum 为例，Casper 中的 validators 数量约为 30 万计，而每一个 finality 都需要 2/3 的节点做投票，光是验证这些签名，可能就会花掉一天的时间，这也是目前 Casper 所面临的瓶颈之一。Ethereum 的研究院 Justin Drake 去年提出了这个方案[^6][^7]，关于 BLS 签名的详细介绍也可以参考 [BLS signatures: better than Schnorr](https://medium.com/@snigirev.stepan/bls-signatures-better-than-schnorr-5a7fe30ea716) 一文。
+
+[^6]: [The Ethereum Sharding Meeting #2 - Berlin 5. BLS aggregation by Vitalik Buterin and Justin Drake](https://www.youtube.com/watch?v=DpV0Hh9YajU&list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ&index=5)
+
+[^7]: [Ethereum Casper  —  認識 BLS signature](https://medium.com/taipei-ethereum-meetup/ethereum-casper-%E8%AA%8D%E8%AD%98-bls-signature-f9fdecf63bb0)
 
 
-## Upcoming 即将到来
+### 爱、杀、机器人 ❤️💀🤖️
+Love, death and robots, watch on netflix.
+今天你看了么？
+
+![https://twitter.com/SatoshiLite/status/1106830972580823041](https://i.imgur.com/bPG2N4q.png)
+- http://shirleycrow.lofter.com/post/1d8219d8_8bb54f4
+- https://www.gcores.com/articles/107848
+
+## 即将到来 Upcoming
 
  ![图片](https://uploader.shimo.im/f/XImnCbGFkXoJ7ii1.png!thumbnail)
-
-### [03 月 28 日] [CryptoCTF](https://cryptoctf.org/?)，`CTF`
-Are you ready to learn hacking Ethereum through realistic examples? 一场新的区块链资安比赛将于本月 28 日开始。
-比赛时间为 28th March 2019 8:40~18:00 UTC+01:00。如果你是第一次参加类似比赛，可以参考之前进行的 [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)。Gotta Catch 'Em All！
-
-### [04 月 08~10 日] [EDCON 黑客松](https://mp.weixin.qq.com/s/9h6tcjPzTzY3DrMFv39N7Q)，14500$ `Hackathon`
-[EDCON 2019](https://www.edcon.io/) （全球以太坊社区发展峰会）将于 04 月 08 日至 13 日在澳大利亚悉尼举行。本届峰会持续一周，主要包含 EDCON HACK 黑客松（04 月 08 日至 10 日）、 主分会场演讲（04 月 11 日至 13 日）以及会后派对（暂定）等。EDCON HACK 是一个为期三天的黑客松，除了总计 14500 美元的奖金之外，为了鼓励开发者的参与和创新，EDCON 会务组还将为所有黑客松参赛者提供免费门票，用于参与后续的主分会场演讲。
-
-### [04 月 15~30 日] [The Ethereal Hackathon](https://medium.com/gitcoin/the-ethereal-hackathon-4f5dc2eb56d6?fbclid=IwAR1hrGew3O67lxFSqZ16REY9Q-VJmiBMpi8cqQS7LNtHzQRBWo5RpY_eLNI)，25000$, `Hackathon`
-Gitcoin 是一家旨在 [Build OSS Sustainability](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4) 的由以太坊驱动的线上协作社区。这将会是 Gitcoin 举办的首场线上 Hackathon，除了优胜奖金之外，主办方还会给最终实现并上线的产品提供额外的资助，协办方包括但不限于 Microsoft, ConsenSys Labs, MythX。岛娘的朋友圈已经都在组队了，快来召集你的好友一起参加吧！
-
-### [04 月 13~15 日] [EOS WORLD EXPO 2019](https://www.eosworldexpo.com/) `EXPO`
-EOS World Expo 2019 将于下个中旬在三藩举行，作为一个 EOS Only 的 Event，从 [议程](https://www.eosworldexpo.com/#program-section) 上来看，这个活动会 Share 很多 EOS only 的 Insight，这些话题在其他公链上可是不多见的哦。
-
-
-![图片](https://uploader.shimo.im/f/cUIvxLznh6AIuSEZ.png!thumbnail)
-
-想要成为 Andoromeda 社区开发者？一起 Happy Hunting？
-订阅仙女电波，发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io), 简单介绍你自己，并附上自己的Github 地址，我们将会邮件您。
