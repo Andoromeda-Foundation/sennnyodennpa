@@ -1,4 +1,4 @@
-# 仙女电波  Vol. 4 - 加密现实
+# 仙女电波  Vol. 4 - Gitleak
 `April 16 2019 – April 22, 2019 刊`
 
 本期编辑：岛娘、Aaryn
@@ -9,7 +9,7 @@
 
 - **BTC**
    
-   上期仙女电波提到了 #WeAreAllHodlonaut 的活动，那么如何使用闪电网络来构建一个 [https://weareallhodlonaut.com/](https://weareallhodlonaut.com/) 一样的众筹网站呢？可以试一下使用 [BTCPay Server](https://btcpayserver.org/) 来轻松的搞定。BTCPay Server 在 Twitter 上最新发布的 [教学视频 ](https://twitter.com/BtcpayServer/status/1119972576422506498)可供参考。
+   上期仙女电波提到了 #WeAreAllHodlonaut 的活动，那么如何使用闪电网络来构建一个 [https://weareallhodlonaut.com/](https://weareallhodlonaut.com/) 一样的众筹网站呢？可以试一下使用 [BTCPay Server](https://btcpayserver.org/) 来轻松的搞定。BTCPay Server 在 Twitter 上最新发布的 [教学视频](https://twitter.com/BtcpayServer/status/1119972576422506498) 可供参考。
   
 - **ETH**
 
@@ -117,11 +117,11 @@
 
 会议主要涵盖了区块链、通证及 AI，岛娘将作为演讲嘉宾分享“The Internet’s Own Ads: How Web3 Infrastructure & Token Economy will reshape the Ads Industry” 。
 
-CTAPC 也开放了论文征集，感兴趣的话可以通过这个链接投递论文：https://ctapc.csie.ntu.edu.tw/blog/call-for-papers.html
+CTAPC 也开放了论文征集，感兴趣的话可以通过 [这个链接](https://ctapc.csie.ntu.edu.tw/blog/call-for-papers.html) 投递论文。
 
 ### [04 月 27 日], [北京比特币聚会](https://www.meetup.com/beijingbitcoinmeetup/events/260440045/), `meetup`
 
-本次活动的讲者 Alex Bosworth 是 Lightning Labs 基础架构负责人，他参与创建了一系列第一代闪电网络相关的App，如 https://htlc.me 和 https://yalls.org/。 与闪电网络专家近距离接触，聆听来自一线大咖的经验心得，机不可失！
+本次活动的讲者 Alex Bosworth 是 Lightning Labs 基础架构负责人，他参与创建了一系列第一代闪电网络相关的App，如 [https://htlc.me](https://htlc.me) 和 https://yalls.org/。 与闪电网络专家近距离接触，聆听来自一线大咖的经验心得，机不可失！
 
 
 仙女电波，关注宇宙人与赛博空间。投稿与订阅，请发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io) 或在 Github 下提交 pr，祝有好收获。
