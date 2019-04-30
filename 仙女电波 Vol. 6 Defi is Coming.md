@@ -5,11 +5,13 @@
 
 [hackmd 编辑地址](https://hackmd.io/s/By7L2ozc4)
 
-「Proof of Stake Weekly」
+### Proof of Stake && Defi Weekly
 - https://proofofstake.substack.com/ 
 - https://defi.dapp.review/
 
 
+### Single Point of Failure 
+[夜王一死，异鬼咋就团灭？ 这是个严肃的科学问题](https://mp.weixin.qq.com/s/vheYyY-PltAmngvp4vELtg)
 
 Alethio Graphql
 
