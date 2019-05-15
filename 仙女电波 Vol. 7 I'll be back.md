@@ -1,4 +1,4 @@
-# 仙女电波  Vol. 7 - 牛市来了吗
+# 仙女电波  Vol. 7 - I'll be back
 `May. 7th, 2019 – May. 13th, 2019 刊`
 
 本期编辑：岛娘、Aaryn
