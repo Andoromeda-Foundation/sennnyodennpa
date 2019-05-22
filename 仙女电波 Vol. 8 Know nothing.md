@@ -86,9 +86,8 @@ Magical Crypto Conference (MCC) 于 5 月 11 日至 12 日举行。这是 MCC �
 
 
 ### 巴比特，杭州区块链高峰论坛
-- 跨链
-- 隐私
-- 闪电网络中文社区成立
+跨链、隐私、闪电网络中文社区成立。
+本届峰会有着非常多的 Insight，这里我们分享一篇新跃大学的李国权老师的 Slide：[03_李国权-通证经济的真正价值：分布式的隐私与信任.pptx](https://github.com/Andoromeda-Foundation/sennnyodennpa/blob/master/Resouces/03_%E6%9D%8E%E5%9B%BD%E6%9D%83-%E9%80%9A%E8%AF%81%E7%BB%8F%E6%B5%8E%E7%9A%84%E7%9C%9F%E6%AD%A3%E4%BB%B7%E5%80%BC%EF%BC%9A%E5%88%86%E5%B8%83%E5%BC%8F%E7%9A%84%E9%9A%90%E7%A7%81%E4%B8%8E%E4%BF%A1%E4%BB%BB.pptx)。
 
 
 ## 社区热议 Trending 🔥
@@ -111,6 +110,7 @@ Magical Crypto Conference (MCC) 于 5 月 11 日至 12 日举行。这是 MCC �
 ...
 
 - [瑞幸咖啡，命不久矣](https://mp.weixin.qq.com/s/8rUkMflALYHl1HnYMYDg6g)
+- [瑞幸成功美国上市：市值42亿美元 钱治亚成中国咖啡女王](https://mp.weixin.qq.com/s/yqDLA5-numQjazyoDUyjTQ)
 - [瑞幸咖啡和吉卜赛人的「冰块」](https://mp.weixin.qq.com/s/Rk2BX3kS51NjplLOWyquRg)
 - [【解局】瑞幸向上，盒马向下](https://mp.weixin.qq.com/s/xH8I2MI8mPk-kFQlYiRMKw)
 - [瑞幸才是真正的牛逼民族企业](https://mp.weixin.qq.com/s/C2TGJIE_36TTgugBeNUkrQ)
@@ -134,12 +134,11 @@ Cobinhood 是曾被社区与投资者抱以厚望的台湾区块链新创。但�
 想一文了解 Cobinhood 玉殒之始末？可以阅读下面这篇：[[Cobinhood-從巨星到終結] 我人生的第一罐龜苓膏](https://medium.com/@woodrowkdeng/cobinhood-%E5%BE%9E%E5%B7%A8%E6%98%9F%E5%88%B0%E7%B5%82%E7%B5%90-%E6%88%91%E4%BA%BA%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BD%90%E9%BE%9C%E8%8B%93%E8%86%8F-8ad1724d4c59)。
 
 
-
-
 ### Thunder Core 事件后续
-。。。
+Thunder Core 是一条与以太坊 EVM 兼容，准球高可用高 Scalability 的公链。曾被 Yahsin Huang 记录在 [7 Most Exciting Blockchain Companies in Taiwan](http://yahsin.me/2018/12/31/Blockchain-Companies-Taiwan/) 里。在上期电波里我们介绍了 Thunder Core 社区的倒戈，本周官方对此事发表了 [回应](https://mp.weixin.qq.com/s/_fSEWcBEjk5Mv4oGGnNoVw)，不知之后会走向什么方向。
 
 ### 权游
+权游结束了。大部分认为烂尾，也有人认为「剧情和人物都 Make Sense，you are sad probably because is all over.」大家怎么看呢。
 
 
 ## 密码朋克 Cypherpunk 💻
