@@ -9,21 +9,27 @@
 
 - **BTC**
 
-   - [Bitcoin Core 0.18.0 ](https://bitcoincore.org/en/2019/05/02/release-0.18.0/)发布 
-   - 比特币开发者 Pieter Wuille 发送了 2 个关于比特币软分叉的重要 BIP （详情： [Pieter Wuille Unveils Two Proposals for Upcoming Bitcoin Privacy Soft Fork](https://www.coindesk.com/new-bips-hint-at-upcoming-taproot-bitcoin-soft-for) ）
+- [Bitcoin Core 0.18.0 ](https://bitcoincore.org/en/2019/05/02/release-0.18.0/)发布 
+- 比特币开发者 Pieter Wuille 发送了 2 个关于比特币软分叉的重要 BIP （详情： [Pieter Wuille Unveils Two Proposals for Upcoming Bitcoin Privacy Soft Fork](https://www.coindesk.com/new-bips-hint-at-upcoming-taproot-bitcoin-soft-for) ）
 
-    - 截至目前，支持闪电网络的节点数已经达到 8287个 （数据来源：https://1ml.com/）
-    
+- 截至目前，支持闪电网络的节点数已经达到 8287个 （数据来源：https://1ml.com/）
+
 - **EOS**
 
-    - 部署 EOS 创世私钥自动恢复系统提案已通过
-    - 销毁 eosio.saving 账户内 EOS 的多签提案已获通过，但在执行过程中因合约资源不足而失败，已重新发起提案。
+- 部署 EOS 创世私钥自动恢复系统提案已通过
+- 销毁 eosio.saving 账户内 EOS 的多签提案已获通过，但在执行过程中因合约资源不足而失败，已重新发起提案。
 
 ![](https://camo.githubusercontent.com/47906664c901cc073495658cb2f1aa8aa08c4d8f/68747470733a2f2f75706c6f616465722e7368696d6f2e696d2f662f656d6e653572414178454d796f5a525a2e706e67217468756d626e61696c)
 
 ## 行业洞察 Industry Insight 🔭
 
 ### PoS 
+
+#### Proof of Stake && Defi Weekly
+「Proof of Stake Weekly」
+- https://proofofstake.substack.com/ 
+- https://defi.dapp.review/
+
 
 上期推荐的 [A Stake to the Heart](https://medium.com/@bendavenport/a-stake-to-the-heart-57fcd8ec323b) 现在有了 [中文译文](https://mp.weixin.qq.com/s/mn4k7or_ITgtZVaAX86vng)。
 
@@ -49,7 +55,7 @@
 
 ![](https://i.imgur.com/Pj2HYxs.png)
 
-（*图片来源 dafi.review*）
+（*图片来源 defi.review*）
 
 当前以太坊上借贷项目的收益率：
 
@@ -68,22 +74,22 @@ Defi 是否是项目方的狂欢，用户究竟有几多，是什么限制了它
 
 - **MakerDAO**
 
-    MakerDAO 是建立在以太坊上的去中心化的衍生金融体系，它采用了双币模式，一种为稳定币Dai，另一种为权益代币和管理型代币MKR。今晨 [MakerDAO 发布公告](https://www.reddit.com/comments/ble9j1) 称，Marker 基金会在审计 Maker 的治理投票合约时发现了严重问题，需要升级合约，并建议已经在投票合约抵押 MKR 的 190 个地址把 MKR 从智能合约提取到个人钱包。 
+MakerDAO 是建立在以太坊上的去中心化的衍生金融体系，它采用了双币模式，一种为稳定币Dai，另一种为权益代币和管理型代币MKR。今晨 [MakerDAO 发布公告](https://www.reddit.com/comments/ble9j1) 称，Marker 基金会在审计 Maker 的治理投票合约时发现了严重问题，需要升级合约，并建议已经在投票合约抵押 MKR 的 190 个地址把 MKR 从智能合约提取到个人钱包。 
 
 - **Bitfinex & USDT**
 
-    上期仙女电波介绍了 Bitfinex 挪用 USDT 储备金的丑闻，iFINEX 于昨日提交文档请求撤销起诉，称“Bitfinex 和 Tether 不存在欺诈行为，也没有受害者”。[文档链接](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=lyTOWUVaDHJdfUfkNZePWg==&system=prod)
-    
+上期仙女电波介绍了 Bitfinex 挪用 USDT 储备金的丑闻，iFINEX 于昨日提交文档请求撤销起诉，称“Bitfinex 和 Tether 不存在欺诈行为，也没有受害者”。[文档链接](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=lyTOWUVaDHJdfUfkNZePWg==&system=prod)
+
 - **EOSDT**
 
-    EOSDT 是基于 EOS 的稳定币，目前迎来了一个快速增长期，已有价值 820 万美元的 EOS 锁仓。
-    
+EOSDT 是基于 EOS 的稳定币，目前迎来了一个快速增长期，已有价值 820 万美元的 EOS 锁仓。
+
 ### 去中心化交易所
 
 - 以太坊上的去中心化交易所 [dYdX](https://dydx.exchange/) 正式上线
 
 - EOS 上的去中心化交易所 [Rex ](https://eosrex.io/)正式上线。REX 上线至今，已锁定超过 5600 w 个 eos, 但只借出 300 余笔。
-    
+
 ## 链游 Blockchain Game 🎮
 
 Cryptokitties 团队最近公开发布了一个新游戏 Cheeze Wizards （奶酪巫师）的 [预约链接](https://www.cheezewizards.com/?id=ZD226
@@ -114,11 +120,17 @@ Cryptokitties 团队最近公开发布了一个新游戏 Cheeze Wizards （奶�
 
 * 中文：[突发！彭博社曝全球最大资管公司将上线比特币交易，比特币或再创新高](https://mp.weixin.qq.com/s/acj3LUTO0McsvkzkoEaY4g)
 
+#### Single Point of Failure 
+[夜王一死，异鬼咋就团灭？ 这是个严肃的科学问题](https://mp.weixin.qq.com/s/vheYyY-PltAmngvp4vELtg)
+
+#### Alethio Graphql
+
+[Github](https://github.com/mingderwang/alethio-graphql) | [Docker](https://hub.docker.com/r/mingder78/alethio-graphql)
 
 ## 密码朋克 Cypherpunk 💻
 
 - [Github 遭受攻击，黑客给出十天限期：不交比特币赎金，就公开用户私有代码](https://mp.weixin.qq.com/s/GfLauN3bbFgjfLuioz7A1w)
-    > 就在五一假期的最后一天，一些程序员查看自己托管到GitHub上的代码时发现，他们的源代码和Repo都已消失不见，取而代之的是黑客留下的一封勒索信！
+> 就在五一假期的最后一天，一些程序员查看自己托管到GitHub上的代码时发现，他们的源代码和Repo都已消失不见，取而代之的是黑客留下的一封勒索信！
 
 - 多款 EOS DAPP 造新型交易memo攻击，共计损失12883个EOS。
 
@@ -136,6 +148,7 @@ Cryptokitties 团队最近公开发布了一个新游戏 Cheeze Wizards （奶�
 ### [5 月 25~26 日], [ Angelhack Beijing](https://www.eventbank.cn/event/angelhack-beijing-hackathon-2019-21662/agenda.html),`Hackathorn`
 
 Angelhack 在各个城市都有举办，上海场是在 6 月 15 ~ 16，暂未开放报名。除了参加线下场，还有线上的[Global Virtual Hackathorn ](https://angelhack.com/virtual-hackathon/)可以报名。
+
 
 
 仙女电波，关注宇宙人与赛博空间。投稿与订阅，请发送邮件到 [newsletter@andoromeda.io](mailto:newsletter@andoromeda.io) 或在 Github 下提交 pr，祝有好收获。
