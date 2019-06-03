@@ -1,14 +1,1 @@
-https://hackmd.io/s/Sy7zGcK64
-
-## 什么是仙女✨电波？
-
-## 仙女✨电波有哪些内容？
-
-## 还有哪些类似的周报？
-- https://github.com/xorder-project/Outliers-niche
-X-Order 通证分析甜甜圈🍩出品的 Outliers' niche 另类生境，包含信息素和栖息地，保持嗅觉之灵敏，思想之沉淀。
-
-- https://proofofstake.substack.com/
-「Proof of Stake」是一个关于 PoS 生态和 Staking Economy 的新闻周报。
-- https://changwu.me/archives.html
-以太坊亚太研究员陈昶吾的个人 Weekly 存档。 
+https://hackmd.io/s/Sy7zGcK64## 什么是仙女✨电波？## 仙女✨电波有哪些内容？仙女✨电波目前正在改版中，具体可以参考我们的 TEMPLATE。## 还有哪些类似的周报？- [Outliers' niche 另类生境](https://github.com/xorder-project/Outliers-niche)> X-Order 通证分析甜甜圈🍩出品的 Outliers' niche 另类生境，包含信息素和栖息地，保持嗅觉之灵敏，思想之沉淀。- [橙皮书，预言家周报](https://orange.xyz/tag/15)> 真正伟大的变革是需要时间的。> Rome was not built in one day, so is Blockchain.> 这份《预言家周报》就是为真正的建造者准备的。橙皮书和他的朋友们会精选过去一周最值得读的文章，附上推荐理由，每周一和你见面。> 之所以叫预言家周报，是因为哈利波特的世界里有一份预言家日报，魔法世界的人都会读。现在的区块链就像所有的新技术一样，just like magic.- [ETHfans 的周报](https://ethfans.org/post_tags/%E6%AF%8F%E5%91%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A)- [「Proof of Stake」是一个关于 PoS 生态和 Staking Economy 的新闻周报](https://proofofstake.substack.com/)- [以太坊亚太研究员陈昶吾的个人周报](https://changwu.me/archives.html)
