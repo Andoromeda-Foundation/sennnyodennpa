@@ -1,0 +1,133 @@
+# 仙女电波 Vol.17 一块广告牌
+`07.16 ~ 07.22 Author：MinakoKojima`
+
+https://hackmd.io/@eo3YPZQwTQOiIJ5aU1Rqgg/HJFbRPpbr/edit
+
+
+[toc]
+
+# 数据与增量 Data && Delta 🔝
+## 公链与基建 Chain && Infra 🔧
+
+### BTC
+- [Blockstream 发布 c-lightning 0.7.1](https://twitter.com/adam3us/status/1151528335538872322)
+
+### ETH
+
+- [Geth v1.9.0 ——重要的里程碑式更新，大幅提升性能并增加了功能](https://blog.ethereum.org/2019/07/10/geth-v1-9-0/)
+- [Parity v2.6.0 测试版 和 v2.5.5 稳定版](https://twitter.com/ParityTech/status/1148294926964334592)
+- [Vitalik 在RadicalXchange 台北演讲哈伯格税,探讨应用在 ENS 域名](https://diode.io/blockchain/Vitalik-Buterin-at-RadicalxChange-Taipei-on-Harberger-Taxes-19199/)
+- [RadicalXchange 台北演讲的 PPT](https://github.com/radicalxchange-taipei/PublicGoods/tree/master/Event_2019-07-16)
+- [通告 | 每周以太坊，2019-07-13](https://ethfans.org/posts/week-in-ethereum-2019-07-13/)
+
+### EOS
+- [EOSIO™ Alpha发布: 历史工具](https://eos.io/news/eosio-alpha-release-history-tools/)
+- [EOSIO™战略愿景: 拓展 EOSIO平台 (四部分的第一部分)](https://eos.io/news/eosio-strategic-vision-scaling-eosio-platform-part-1/)
+
+### Polkadot
+- [Polkadot 发布 Kusama 金丝雀网络——实验性社区研发网络](https://twitter.com/polkadotnetwork/status/1151170947048546305)
+https://kusama.network/
+- [Gavin Wood 亲笔：关于 Kusama 网络的公告](https://mp.weixin.qq.com/s/Xy7zEo1mXpEJzWJ-fcdErQ)
+- [波卡金丝雀网 Kusama 手把手获币教学：如何用 DOT 映射获得 KSM](https://www.chainnews.com/articles/515980246114.htm) | [视频](https://www.bilibili.com/video/av59736552/?redirectFrom=h5) 
+- [波卡生态正考虑使用Substrare实现Cosmos IBC协议，两大跨链项目有望实现互联](https://www.theblockbeats.com/news/2305?from=timeline&isappinstalled=0)
+- [波卡新设计 “Parathreads 平行线程” 的大白话解读 全网首发](https://mp.weixin.qq.com/s/zQdpAhuIUL0R3GJ1ZE6iKA)
+
+
+## 去中心化应用 Dapp & Defi 
+
+### SkyWeaver
+- [Reddit 创始人投资区块链游戏公司，发布类似炉石传说的卡牌游戏](https://www.chainnews.com/news/261301924804.htm) 
+
+### Satoshi's Game
+- [Satoshi's Game](https://satoshis.games/)
+
+
+### 橙皮书广告牌
+![](https://i.imgur.com/uhM7EF7.jpg)
+
+- [我们做了一个世界上最难用的广告牌，来试试吗？](https://mp.weixin.qq.com/s/zzMbMzM9EEpzRr7HH66Llg)
+- [周末荐读 | DeFi如何解决性命攸关的流动性问题](https://app.tuoluocaijing.cn/article/detail-52798.html)
+
+### 高仿Just.Game
+- [真假盒子之那些你追过的高仿Just.Game](https://mp.weixin.qq.com/s/VqzBCWe5gvoorsPFrE8gqg)
+
+### Defi
+- [教程 | 手把手教你用 MakerDAO 和 Compound 拿利息](https://ethfans.org/posts/open-finance-a-simple-guide-to-using-makerdao-and-compound)
+- [MARKET Protocol 帮你做空比特币，DeFi 衍生品的夏天到了？](https://mp.weixin.qq.com/s/17SGapORECJlvF1y79WFrQ)
+# 行业洞察 Insight 🔭
+
+## 社区热议 Trending 🔥
+- [Libra负责人大卫马库斯分别参加参议院和众议院的听证会专题](https://www.ccvalue.cn/article/4314.html)
+- [Libra首轮听证火爆落幕，7大关键议题交锋，症结点仍在FB自身](https://mp.weixin.qq.com/s/Qa4xPyuVFmTO_bQYpCtjHg)
+- 参议院听证会直播视频地址：https://www.youtube.com/watch?v=7iHvIZXyH6I
+- 众议院听证会直播视频地址：https://youtu.be/9-ZTkCNW0w8
+![](https://i.imgur.com/Isx5k3O.jpg)
+- [币圈专业吃瓜，啥是听证会？检察院听证会和国会听证会的区别？ut与pizza上](https://mp.weixin.qq.com/s/ScyFPNmKfKLD8O1IFUWL8g)
+- [《圣人大盗》区块链电影](https://smartsignature.io/article/675?CACHE=42a9c773)
+
+
+## 推荐阅读 Recommend
+
+> 岛娘：XOrder 的这篇文章延续了其 [过去的风格](http://www.shuizilong.com/house/archives/the-value-of-blockchain/)，理性分析和讨论模式币。结合最近 PlusToken、Soxex 以及 贝尔链 的相关文章体验更加。
+> ——[「模式币」原理剖析及防范指南：接盘和庞氏有何区别？](https://www.chainnews.com/articles/771255926678.htm)
+
+
+> 岛娘：Ray Dalio 最近发布一份名为《范式转换》的报告，[Bloomberg 上也有其他相似观点的文章](https://www.bloomberg.com/news/articles/2019-07-19/gold-rush-heats-up-as-sub-zero-yields-spread-these-charts-show)。无独有偶，[保罗格雷厄姆最近也在 Twitter 上提醒人们注意到这种「范式转换」](https://twitter.com/paulg/status/1150101490830401536)，他还提到最近一次「范式转换」发生在 1979 年。
+—— [桥水达里奥：全球市场将迎新变局 黄金料为投资首选](https://www.chainnews.com/articles/356717193098.htm?from=groupmessage&isappinstalled=0) 
+
+
+> Mable: 经过这半年，在现在这样一个思考讨论与实践探索并行的时点，我觉得是时候重温这篇文章，让行业内的人回顾总结、整装再出发，也让更多刚开始关注的人由浅入深、拥抱新经济。
+> —— [通证经济悖论 — 激励机制、社会生产、后资本主义](https://mp.weixin.qq.com/s/K_fIVZUnYV4LWrcDPJE5og)
+
+> Suji: 马上就是 Dweb Camp 了，Tim B. Lee 也去。一堆 Web3 需要区块链的也去，可以看看怎么辩。
+—— [Web 3.0 不需要区块链](https://mp.weixin.qq.com/s/WhCiPGs6y8f62jpwcyO9Hg)
+
+> 岛娘：还记得之前 LongHash 的那篇 [Defi is for Bitcoin Too](https://www.longhash.com/news/opinion-defi-is-for-bitcoin-too) 的文章吗？本周坊间出现了更多相关的文章。Token Daily 的这篇讨论了在比特币上实现 Defi 的路径，内容包含中心化的比特币借贷、衍生品、到去中心化的 Bitcoiin Relay、原子交换、跨链等等方向。
+—— [Pathways for DeFi on Bitcoin](https://medium.com/tokendaily/pathways-for-defi-on-bitcoin-a68563c4c95) | [中译](https://www.chainnews.com/articles/191332648721.htm)
+
+
+## 会议与工作坊 Conference & Workshop 📓
+- [独立的大脑 · 区块链在广告/流量领域的探索](https://www.huodongxing.com/event/4501649392200)
+- [PPT下载](https://pan.baidu.com/s/1KSLFwrOMnv1v4QyT38TEWw) 提取码: 7nep 
+- [私域流量很火，但是大部分人更需要的可能是“混域流量”](https://mp.weixin.qq.com/s/STG0mkkoKVtaIMP7SxxukA)
+- [Gavin Wood 现身北京：Polkadot 今年将公募，主网计划 11 月或明年 1 月发布](https://www.chainnews.com/articles/077150778686.htm)
+- [“波卡平行世界”活动上，波卡生态各项目都说了什么？](https://mp.weixin.qq.com/s/lfHNLDY4gVrISWOvmGQ5Tg)
+- [波卡中国 Meetup  7.20 上海站完整 PPT 下载](https://pan.baidu.com/s/1qIC1OtTHVKkeu7_E4ftqTQ)
+
+****
+
+
+
+
+## 密码朋克 Cypherpunk 💾
+
+本周 [Parity 更换了它们的 GPG Key](https://twitter.com/ParityTech/status/1151563940410908672)，想要了解更多。可以阅读下面的文章。
+
+> There are, as you’re about to see, lots of problems with PGP. Fortunately, if you’re not morbidly curious, there’s a simple meta-problem with it: it was designed in the 1990s, before serious modern cryptography. No competent crypto engineer would design a system that looked like PGP today, nor tolerate most of its defects in any other design.
+—— [Latacora, The PGP Problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
+
+
+- [《個資風暴：劍橋分析事件》| 正式預告 | Netflix](https://www.youtube.com/watch?v=qRQEXmg3RaE)
+
+
+
+# 近期活动 Upcoming Events 📅 
+
+## 以太坊年度开发者大都会 Devcon5
+
+- [以太坊年度开发者大会 Devcon 抢票了](https://twitter.com/EFDevcon/status/1150879993926496256)
+
+## 波卡世界工作坊 PolkWorld Workshop
+- 和林嘉文（Gavin Wood)博士一起编程
+![](https://i.imgur.com/ZHfwZwE.jpg)
+
+
+## DoraHacks 第四次工业革命黑客马拉松 
+![](https://i.imgur.com/uIzsYcb.png)
+
+- [NEO加入DoraHacks第四次工业革命黑客马拉松区块链赛道，释放全球极客创新力 7.19 北京](https://mp.weixin.qq.com/s?__biz=MzAwMjEzNzAzNQ==&mid=2650718816&idx=1&sn=b03885a89aec1353e648c4b2c7a6397b&chksm=82c56cc4b5b2e5d219ae89c5535441a34f6b97d7036046add82862989de5468d00460401d941&scene=0&xtrack=1&key=a42f6d0b8e7a036c7b4781f38f75c66b9b88dc1c8c7c44d63b1eb7638c7713678541833a76f4233620ce55c7b4f5bb5b8f735849dba3928bca4a1c206d85d817498e9b844debe19066306b03f678e4a9&ascene=1&uin=OTA0MDAzMDg0&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=mvW6cG3MHb%2FM2b0yvyb%2BqN50dZRMtfMGcIjVqmK2zqdyyisB%2F3CXM8Li6KfBLhI%2F)
+
+
+
+仙女电波，关注宇宙人与赛博空间。
+订阅请发送邮件到，newsletter@andoromeda.io 或在 Github 下提交 pr，祝有好收获。投稿可在HackMD文档链接共同编辑。
